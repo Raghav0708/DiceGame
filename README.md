@@ -1,0 +1,2 @@
+# DiceGame
+for learning JS
